@@ -2,7 +2,7 @@
 
 version: 1.0.0
 
-### UserName : elias
+### UserName : Harsh
 
 ### Password : 1234
 
@@ -10,16 +10,10 @@ version: 1.0.0
 
 ### ---------------------------------
 
-### UserName : john
+### UserName : Lisha
 
 ### Password : abcd
 
 ### UserType : user
 
-## Full Tutorial
 
-[On Youtube](https://youtu.be/-8q3GLkr9Ts)
-
-## Authors
-
-[Elias Abdurrahman](https://github.com/codingWithElias)
